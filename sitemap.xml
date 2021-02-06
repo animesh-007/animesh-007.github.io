@@ -3,38 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://animesh-007.github.io/project/external-project/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://animesh-007.github.io/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-06T21:35:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://animesh-007.github.io/tag/demo/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <loc>https://animesh-007.github.io/project/monet_gan/</loc>
+    <lastmod>2021-02-06T21:35:11+05:30</lastmod>
   </url>
   
   <url>
     <loc>https://animesh-007.github.io/project/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-06T21:35:11+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://animesh-007.github.io/tags/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <loc>https://animesh-007.github.io/project/ai_for_blind/</loc>
+    <lastmod>2021-02-06T21:26:40+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://animesh-007.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://animesh-007.github.io/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>https://animesh-007.github.io/project/gld2020/</loc>
+    <lastmod>2021-02-06T21:08:10+05:30</lastmod>
   </url>
   
   <url>
@@ -63,6 +53,10 @@
   
   <url>
     <loc>https://animesh-007.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://animesh-007.github.io/tags/</loc>
   </url>
   
 </urlset>
