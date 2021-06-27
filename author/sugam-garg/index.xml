@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sugam Garg | Animesh Gupta</title>
+    <title>Sugam Garg on Animesh Gupta</title>
     <link>https://animesh-007.github.io/author/sugam-garg/</link>
-      <atom:link href="https://animesh-007.github.io/author/sugam-garg/index.xml" rel="self" type="application/rss+xml" />
-    <description>Sugam Garg</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 31 Jan 2021 01:41:03 +0530</lastBuildDate>
-    <image>
-      <url>https://animesh-007.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Sugam Garg</title>
-      <link>https://animesh-007.github.io/author/sugam-garg/</link>
-    </image>
-    
+    <description>Recent content in Sugam Garg on Animesh Gupta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 Jan 2021 01:41:03 +0530</lastBuildDate><atom:link href="https://animesh-007.github.io/author/sugam-garg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation</title>
       <link>https://animesh-007.github.io/publication/double_hard_debias/</link>
       <pubDate>Sun, 31 Jan 2021 01:41:03 +0530</pubDate>
+      
       <guid>https://animesh-007.github.io/publication/double_hard_debias/</guid>
-      <description></description>
+      <description>&amp;ldquo;Programmer” is more closely associated with “man” and “homemaker” is more closely associated with “woman”.  Such gender bias has also been shown to propagate in downstream tasks.</description>
     </item>
     
   </channel>
