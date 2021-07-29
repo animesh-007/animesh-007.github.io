@@ -1,46 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Animesh Gupta</title>
     <link>https://animesh-007.github.io/</link>
-    <description>Recent content on Animesh Gupta</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 Feb 2021 21:35:11 +0530</lastBuildDate><atom:link href="https://animesh-007.github.io/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://animesh-007.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Animesh Gupta</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 29 Jul 2021 15:58:52 +0530</lastBuildDate>
+    <image>
+      <url>https://animesh-007.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Animesh Gupta</title>
+      <link>https://animesh-007.github.io/</link>
+    </image>
+    
+    <item>
+      <title>ZSl Generative</title>
+      <link>https://animesh-007.github.io/project/zsl_generative/</link>
+      <pubDate>Thu, 29 Jul 2021 15:58:52 +0530</pubDate>
+      <guid>https://animesh-007.github.io/project/zsl_generative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[Re] Latent Embedding Feedback and Discriminative Featuresfor Zero-Shot Classification (Under Review)</title>
+      <link>https://animesh-007.github.io/publication/tfvaegan/</link>
+      <pubDate>Thu, 29 Jul 2021 15:37:47 +0530</pubDate>
+      <guid>https://animesh-007.github.io/publication/tfvaegan/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>I’m Something of a Painter Myself</title>
       <link>https://animesh-007.github.io/project/monet_gan/</link>
       <pubDate>Sat, 06 Feb 2021 21:35:11 +0530</pubDate>
-      
       <guid>https://animesh-007.github.io/project/monet_gan/</guid>
-      <description>Developed a GAN that generates 7,000 to 10,000 Monet-style images.</description>
+      <description></description>
     </item>
     
     <item>
       <title>AI for Blind</title>
       <link>https://animesh-007.github.io/project/ai_for_blind/</link>
       <pubDate>Sat, 06 Feb 2021 21:26:40 +0530</pubDate>
-      
       <guid>https://animesh-007.github.io/project/ai_for_blind/</guid>
-      <description>Developed a classification model for predicting seven emotions like (angry, disgusted,fearful, happy, neutral, sad and surprised) using FER-2013 dataset.</description>
+      <description></description>
     </item>
     
     <item>
       <title>Google Landmark Recognition 2020</title>
       <link>https://animesh-007.github.io/project/gld2020/</link>
       <pubDate>Sat, 06 Feb 2021 21:08:10 +0530</pubDate>
-      
       <guid>https://animesh-007.github.io/project/gld2020/</guid>
-      <description>Developed a classification model for predicting landmark labels using the GLDv2 dataset.</description>
+      <description></description>
     </item>
     
     <item>
-      <title>Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation</title>
+      <title>[Re] Double-Hard Debias: Tailoring Word Embeddings for Gender Bias Mitigation</title>
       <link>https://animesh-007.github.io/publication/double_hard_debias/</link>
       <pubDate>Sun, 31 Jan 2021 01:41:03 +0530</pubDate>
-      
       <guid>https://animesh-007.github.io/publication/double_hard_debias/</guid>
-      <description>&amp;ldquo;Programmer” is more closely associated with “man” and “homemaker” is more closely associated with “woman”.  Such gender bias has also been shown to propagate in downstream tasks.</description>
+      <description></description>
     </item>
     
   </channel>
